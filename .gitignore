@@ -1,0 +1,9 @@
+*.swp
+/node_modules
+/tmp
+build
+docs/*.json
+docs/*.html
+smf/manifests/*.xml
+.DS_Store
+npm-debug.log
